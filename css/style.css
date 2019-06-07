@@ -20,7 +20,10 @@ body {
   height: 100%;
   position: relative;
 }
-
+.dzo_logo {
+	width: 25px;
+	height: 25px;
+}
 a {
   color: #27E1CE;
   -webkit-transition: 0.5s;
